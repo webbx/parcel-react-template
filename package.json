@@ -70,10 +70,6 @@
             "git add"
         ]
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/webbx/parcel-react-template.git"
-    },
     "keywords": [
         "parcel",
         "react",
@@ -81,9 +77,5 @@
         "template"
     ],
     "author": "{{ author }}",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/webbx/parcel-react-template/issues"
-    },
-    "homepage": "https://github.com/webbx/parcel-react-template#readme"
+    "license": "ISC"
 }
